@@ -6,7 +6,7 @@
     "name": "Yuta Imaya",
     "email": "imaya.devel@gmail.com"
   },
-  "name": "zlibjs",
+  "name": "zlibjs-slim",
   "description": "zlib, gzip and zip implementation in JavaScript",
   "version": "0.2.0",
   "main": "./bin/node-zlib.js",
